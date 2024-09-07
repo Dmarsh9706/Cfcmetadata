@@ -1563,9 +1563,9 @@
           "state" : "Georgia"
         },
         {
-          "abbreviation" : "TSU",
+          "abbreviation" : "AMA",
           "prestige" : "55",
-          "hexColor" : "#513500",
+          "hexColor" : "#00a9e0",
           "rival" : "USA",
           "headCoach" : {
             "contractLength" : "6",
@@ -1581,7 +1581,7 @@
             "name" : "GJ Kinne",
             "contractYear" : "1"
           },
-          "name" : "Texas State Bobcats",
+          "name" : "Amarillo Sod Poodles",
           "state" : "Texas"
         }
       ],
