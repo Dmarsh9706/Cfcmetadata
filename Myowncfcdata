@@ -7,7 +7,7 @@
           "prestige" : "90",
           "hexColor" : "#730000",
           "rival" : "AUB",
-          "headCoach" : {
+          "headCoach" : { 
             "contractLength" : "6",
             "startYear" : "2024",
             "age" : "49",
